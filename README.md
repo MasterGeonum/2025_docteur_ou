@@ -25,3 +25,4 @@
 ## Structure du repository
 - 4 dossiers "onglets" : contiennent des "sous-applications" RShiny indépendantes
 - 1 dossier main : application principale avec import des données, import des librairies, import des sous-applications...
+![image](https://github.com/user-attachments/assets/b6569955-f6a4-4adf-aeb7-befea7d8ac81)
