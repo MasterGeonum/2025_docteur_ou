@@ -1,4 +1,4 @@
-# Logiciels Utilisés
+# Informations pour déploiement de l'application
 
 ## RStudio
 - **Version de R :**  
