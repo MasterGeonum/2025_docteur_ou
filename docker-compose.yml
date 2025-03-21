@@ -1,0 +1,6 @@
+services:
+  app:
+    image: ghcr.io/mastergeonum/docteur-ou:latest
+    build: .
+    ports:
+      - "3838:3838"
